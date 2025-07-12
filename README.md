@@ -1,12 +1,28 @@
-# React + Vite
+# 📰 NewsMonkey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**NewsMonkey** is a React-based news web application that delivers real-time news articles from various categories like business, entertainment, sports, technology, health, and more. Built using the NewsAPI, it provides users with a clean, fast, and categorized news experience.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit NewsMonkey](https://your-vercel-link.vercel.app)  
+_(Replace with your actual deployed URL)_
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔎 Category-based news filtering (e.g., General, Business, Sports, etc.)
+- ♾️ Infinite scrolling for continuous news feed
+- ⚡ Fast and responsive interface
+- 🌙 Dark and light theme support *(if implemented)*
+- 📰 Real-time API integration with NewsAPI
+- 📱 Fully responsive across devices
+
+## 📦 Built With
+
+- React.js
+- Bootstrap / Custom CSS
+- NewsAPI.org
+- React Router DOM
+
+## 📸 Screenshots
+
+> *(Optional)* You can add screenshots of your app here using:
