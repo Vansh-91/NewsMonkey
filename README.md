@@ -1,12 +1,6 @@
 # 📰 NewsMonkey
 
 **NewsMonkey** is a React-based news web application that delivers real-time news articles from various categories like business, entertainment, sports, technology, health, and more. Built using the NewsAPI, it provides users with a clean, fast, and categorized news experience.
-
-## 🌐 Live Demo
-
-👉 [Visit NewsMonkey](https://your-vercel-link.vercel.app)  
-_(Replace with your actual deployed URL)_
-
 ## 🚀 Features
 
 - 🔎 Category-based news filtering (e.g., General, Business, Sports, etc.)
